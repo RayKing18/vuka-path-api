@@ -93,7 +93,7 @@ vuka-path-api/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/vuka-path-api.git
+git clone https://github.com/RayKing18/vuka-path-api.git
 ```
 
 ### 2. Navigate into the project
